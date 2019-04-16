@@ -6,7 +6,7 @@ MATLAB implementation of Synergistic Generic Learning (SGL) [1]
 
 This package provides the codes of: 
 1) SGL w/o PL for SSPP with a standard biometric enrolment database (SSPP-se), run testSGL_ssppse.m; 
-The AR_VariationDictionary_SGL.mat can be found in https://drive.google.com/open?id=11_JKSC6iDo2vObCxsmgRMLEmgjov7qno
+The AR_VariationDictionary_SGL.mat can be downloaded in https://drive.google.com/open?id=11_JKSC6iDo2vObCxsmgRMLEmgjov7qno
 
 2) Variation dictionary learning, run GenerateVariation_SGL.m
 
