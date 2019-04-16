@@ -9,7 +9,7 @@ This package provides the codes of:
 
 2) Variation dictionary learning, run GenerateVariation_SGL.m
 
-The codes for the prototype learning are under optimization and will be released soon in the next version of code package. If you wish to get the full code of SGL or have any other questions, please contact Meng Pang (pangmeng@mail.dlut.edu.cn). 
+The codes for the prototype learning are under optimization and will be released soon in the next version of code package. If you wish to get the full code of SGL or have any other questions, please contact the author with the email: mengpang@comp.hkbu.edu.hk or pangmeng@mail.dlut.edu.cn. 
 
 The software is free for academic use, and shall not be used, rewritten, or adapted as the basis of a commercial product without first obtaining permission from the authors. The authors make no representations about the suitability of this software for any purpose. It is provided "as is" without express or implied warranty.
 
