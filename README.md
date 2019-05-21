@@ -21,13 +21,13 @@ Notes:
 Contributions:
 
 1. To the best of our knowledge, this work is the first attmpt to study the new and practical problem in SSPP FR, i.e., SSPP-ce FR, where the biometric enrolment database is contaminated by nuisance facial variations.
-2. We develop a learned prototypes plus learned variation dictionary (learned P+learned V) framework to address the SSPP-ce FR problem. Moreover.
+2. We develop a learned prototypes plus learned variation dictionary (learned P+learned V) framework to address the SSPP-ce FR problem. Moreover, under this framework, we propose the SGL method.
 3. We present a new way to learn the variation dictionary by extracting the less discriminative parts (LDPs) from an auxiliary generic set, and use low-rank factorization to solve it efficiently.
 
 
 Limitations:
 
-1. SGL aims to learns netural prototypes for contaminated samples in the biometric enrolment database by separating the nuisance variations and preserving the more discriminative subject-specific portions. Since this learning process is based on the linear-based feature regrouping, some nonlinear facial variations (e.g., expressions and poses) cannot be successfully removed under the circumstances.
+1. SGL aims to learns netural prototypes for contaminated enrolment samples by separating the nuisance variations and preserving the more discriminative subject-specific portions. Since this learning process is based on the linear-based feature regrouping, some nonlinear facial variations (e.g., expressions and poses) cannot be successfully removed under the circumstances.
 2. The trained prototypes using the generic set may not represent the target enrolment persons correctly, especially in the case when some crucial regions (e.g., eyes) are corrupted. This is because that the individual information of the enrolment persons are probably not included in the generic set.  
 
 
