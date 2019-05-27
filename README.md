@@ -28,7 +28,7 @@ Contributions:
 Limitations:
 
 1. SGL aims to learns netural prototypes for contaminated enrolment samples by separating the nuisance variations and preserving the more discriminative subject-specific portions. Since this learning process is based on the linear-based feature regrouping, some nonlinear facial variations (e.g., expressions and poses) cannot be successfully removed under the circumstances.
-2. The trained prototypes using the generic set may not represent the target enrolment persons correctly, especially in the case when some crucial regions (e.g., eyes) are corrupted. A plausible reason is that the individual information of the enrolment persons are probably not included in the generic set.  
+2. The trained prototypes using the generic set may not represent the target enrolment persons precisely and correctly, especially in the case when some crucial regions (e.g., eyes) are corrupted. A plausible reason is that the individual information of the enrolment persons are probably not included in the generic set.  
 
 
 © 2019 GitHub, Inc.
